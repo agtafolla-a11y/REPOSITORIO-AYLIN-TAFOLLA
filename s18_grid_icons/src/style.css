@@ -1,0 +1,34 @@
+body{
+   background-color: #FFD6F7;}
+h1,p {
+  text-align:center;
+  color: #164954;
+}
+
+.container{
+  display:flex;
+  background-color: #aa40af;
+  width:1550px;
+  margin:20px 0;
+  content:center;
+}
+
+.container div{
+  background-color: #55BED4;
+  margin:23px;
+  padding:20px;
+  font-size:24px;
+  content:center;
+}
+footer, a{
+  background-color:#aa40af;
+  color:white;
+  text-align:center;
+  margin-top:2rem;
+}
+
+.social a{
+  color:white;
+  margin: 0 1rem;
+  font-size:1.2rem;
+}
